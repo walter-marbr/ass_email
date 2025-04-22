@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="3.048mm" height="3.048mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 18.3 18.3"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="750" font-variant="normal" style="fill-rule:nonzero" font-style="normal" font-weight="400">
+	<font-face 
+		font-family="Font Awesome 6 Brands Regular">
+		<font-face-src>
+			<font-face-name name="Font Awesome 6 Brands Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="" horiz-adv-x="875" d="M124.993 812.511c-68.9843,0 -124.993,-56.0085 -124.993,-125.022l0 -624.993c0,-68.9843 56.0085,-124.993 124.993,-124.993l191.853 0 0 284.837 -103.175 0 0 152.667 103.175 0 0 65.8265c0,170.179 76.9937,249.01 244.158,249.01 31.4922,0 86.3237,-6.17213 108.658,-12.5165l0 -138.313c-11.6553,1.1483 -32.1525,1.98082 -57.8171,1.98082 -82.0176,0 -113.682,-31.0042 -113.682,-111.673l0 -54.3147 163.346 0 -28.1621 -152.667 -135.356 0 0 -284.837 252.024 0c68.9843,0 124.993,56.0085 124.993,124.993l0 624.993c0,69.013 -56.0085,125.022 -124.993,125.022l-625.022 0z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Font Awesome 6 Brands Regular";font-variant:normal;font-style:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#F3801F}
+    .fnt0 {font-weight:normal;font-size:20.91px;font-family:'Font Awesome 6 Brands Regular'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g transform="matrix(1 0 0 1 152.4 566.524)">
+   <text x="-152.4" y="-549.53"  class="fil0 fnt0"></text>
+  </g>
+ </g>
+</svg>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="2.032mm" height="2.032mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 10.06 10.06"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <font id="FontID0" horiz-adv-x="749" font-variant="normal" style="fill-rule:nonzero" font-weight="400">
+	<font-face 
+		font-family="Font Awesome 6 Brands Regular">
+		<font-face-src>
+			<font-face-name name="Font Awesome 6 Brands Regular"/>
+		</font-face-src>
+	</font-face>
+   <missing-glyph><path d="M0 0z"/></missing-glyph>
+   <glyph unicode="" horiz-adv-x="874" d="M812.513 812.513l-750.161 0c-34.3625,0 -62.352,-28.334 -62.352,-63.1701l0 -748.697c0,-34.7931 27.9895,-63.1271 62.352,-63.1271l750.161 0c34.3194,0 62.4812,28.334 62.4812,63.1271l0 748.697c0,34.8362 -28.1617,63.1701 -62.4812,63.1701zm-548.034 -750.032l-129.656 0 0 417.517 129.828 0 0 -417.517 -0.172243 0zm-64.8064 474.702c-41.6828,0 -75.3563,33.6305 -75.3563,75.141 0,41.3383 33.6735,75.1841 75.3563,75.1841 41.3383,0 75.141,-33.8458 75.141,-75.1841 0,-41.6398 -33.6305,-75.141 -75.141,-75.141l0 0zm551.005 -474.702l-129.828 0 0 203.204c0,48.3142 -0.861215,110.666 -67.347,110.666 -67.5193,0 -77.8539,-52.6633 -77.8539,-107.178l0 -206.692 -129.828 0 0 417.517 124.532 0 0 -57.0124 1.63631 0c17.5257,32.8554 59.8545,67.5193 123.025,67.5193 131.163,0 155.665,-86.6813 155.665,-199.156l0 -228.868z"/>
+  </font>
+  <style type="text/css">
+   <![CDATA[
+    @font-face { font-family:"Font Awesome 6 Brands Regular";font-variant:normal;font-weight:normal;src:url("#FontID0") format(svg)}
+    .fil0 {fill:#F3801F}
+    .fnt0 {font-weight:normal;font-size:11.5px;font-family:'Font Awesome 6 Brands Regular'}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <text x="" y="9.35"  class="fil0 fnt0"></text>
+ </g>
+</svg>
